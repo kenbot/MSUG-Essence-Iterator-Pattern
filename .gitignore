@@ -1,0 +1,15 @@
+.dist-buildwrapper/
+.dist-scion/
+.hsproject
+.project
+Iterator.cabal
+Setup.hs
+project/boot/
+project/build/
+src/Main.exe
+src/Main.hi
+src/Main.hs
+src/Main.o
+src/Validation.hs
+src/wc.hs
+target/

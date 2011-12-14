@@ -1,0 +1,31 @@
+This project contains code examples from my talk on the Essence of the Iterator Pattern paper, as presented to the Melbourne Scala User Group on 28/11/2011.
+
+It contains examples in Scala illustrating Monoids, Monads, Functors, Applicative Functors, and some simple algorithms that use Traversable.
+
+Links:
+
+The slides: http://dl.dropbox.com/u/5930402/EssenceIteratorPattern.ppt
+http://dl.dropbox.com/u/5930402/EssenceIteratorPattern.odp
+
+"Essence of the Iterator Pattern" by Gibbons & Oliveira
+www.cs.ox.ac.uk/jeremy.gibbons/publications/iterator.pdf
+
+Eric Torreborre's blog post:
+etorreborre.blogspot.com/2011/06/essence-of-iterator-pattern.html
+
+
+"Applicative Programming with Effects" by McBride & Paterson
+The paper in which Applicative Functors were first proposed.
+http://www.soi.city.ac.uk/~ross/papers/Applicative.pdf
+
+"Deriving Scalaz"
+Video of a talk Scalaz committer Nick Partridge gave at MSUG in 2010.  He goes into much more detail about validation with Applicative Functors, monoids and using Scalaz.
+http://vimeo.com/10482466
+
+Monad slides by Bernie Pope
+Slides from a talk Bernie gave at MSUG in 2009.  This was where the concept started to click, for me.
+http://www.berniepope.id.au/docs/scala_monads.pdf
+
+"What does Monad Mean?" by Tony Morris
+Video of a talk Tony gave to the BFPG in 2010.  My favourite quote is "Monad metaphors are stupid", in reference to all the silly fluffy cloud, elephant and space-suit tutorials that the web is awash with.
+http://vimeo.com/8729673
